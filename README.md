@@ -114,7 +114,7 @@ DB_PASS=IciVotreMotDePasse!
 ## 👤 Auteur
 
 **Sébastien Inion**
-**Collaborateurs : Matthieu Cottenier  
+**Collaborateurs : Matthieu Cottenier, Romain Scotto** 
 > Projet réalisé dans le cadre du BTS SIO (option SLAM)  
 > Lycée — 2025
 
